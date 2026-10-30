@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- wall plate (same style as ethernet-socket.svg) -->
+  <rect x="50" y="50" width="300" height="300" rx="30" fill="#eef1f5"/>
+  <rect x="50" y="50" width="300" height="300" rx="30" fill="none" stroke="#cfd6df" stroke-width="3"/>
+  <!-- screws -->
+  <circle cx="200" cy="88" r="9" fill="#cfd6df"/>
+  <rect x="193" y="86" width="14" height="4" rx="2" fill="#9aa4b2"/>
+  <circle cx="200" cy="312" r="9" fill="#cfd6df"/>
+  <rect x="193" y="310" width="14" height="4" rx="2" fill="#9aa4b2"/>
+  <!-- round boss around the connector -->
+  <circle cx="200" cy="200" r="78" fill="#c4ccd6"/>
+  <circle cx="200" cy="200" r="70" fill="#d6dce4"/>
+  <!-- F-connector: hex nut -->
+  <polygon points="252,200 226,245 174,245 148,200 174,155 226,155" fill="#a9b3bf"/>
+  <polygon points="244,200 222,238 178,238 156,200 178,162 222,162" fill="#b9c2cd"/>
+  <!-- threaded barrel -->
+  <circle cx="200" cy="200" r="36" fill="#8f99a6"/>
+  <circle cx="200" cy="200" r="31" fill="none" stroke="#7a8492" stroke-width="3"/>
+  <circle cx="200" cy="200" r="25" fill="none" stroke="#7a8492" stroke-width="3"/>
+  <!-- dielectric + centre pin -->
+  <circle cx="200" cy="200" r="19" fill="#f4f6f8"/>
+  <circle cx="200" cy="200" r="6" fill="#d4aa3c"/>
+</svg>

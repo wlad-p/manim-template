@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" width="400" height="400">
+  <!-- wall plate (same style as ethernet-socket.svg) -->
+  <rect x="50" y="50" width="300" height="300" rx="30" fill="#eef1f5"/>
+  <rect x="50" y="50" width="300" height="300" rx="30" fill="none" stroke="#cfd6df" stroke-width="3"/>
+  <!-- screws -->
+  <circle cx="200" cy="88" r="9" fill="#cfd6df"/>
+  <rect x="193" y="86" width="14" height="4" rx="2" fill="#9aa4b2"/>
+  <circle cx="200" cy="312" r="9" fill="#cfd6df"/>
+  <rect x="193" y="310" width="14" height="4" rx="2" fill="#9aa4b2"/>
+  <!-- SC/APC adapter (green = angled polish) -->
+  <rect x="146" y="136" width="108" height="118" rx="12" fill="#c4ccd6"/>
+  <rect x="156" y="146" width="88" height="98" rx="8" fill="#2fa860"/>
+  <rect x="172" y="160" width="56" height="70" rx="6" fill="#1f7a44"/>
+  <!-- latch slots -->
+  <rect x="162" y="150" width="14" height="6" rx="2" fill="#1f7a44"/>
+  <rect x="224" y="150" width="14" height="6" rx="2" fill="#1f7a44"/>
+  <!-- ceramic ferrule with the fibre core -->
+  <circle cx="200" cy="195" r="14" fill="#f4f6f8"/>
+  <circle cx="200" cy="195" r="3.5" fill="#7cd6ff"/>
+  <!-- laser warning triangle -->
+  <path d="M200 264 L216 290 H184 Z" fill="#ffbe32" stroke="#ffbe32" stroke-width="4" stroke-linejoin="round"/>
+  <rect x="198.3" y="272" width="3.4" height="9" rx="1.7" fill="#2a2e38"/>
+  <circle cx="200" cy="285" r="2" fill="#2a2e38"/>
+</svg>
